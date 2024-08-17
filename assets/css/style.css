@@ -8,23 +8,23 @@
 }
 
 body {
-    background-color: #717d7e;
+    background-color: #fff;
 }
 h1 {
     font-size: 1.6rem;
-    color: #1c2833;
+    color: #641e16;
     font-weight: 700;
-    border-bottom: 1px solid #717d7e;
+    border-bottom: 1px solid #fff;
     padding: 1.9rem;
     text-align: center;
 }
 h2 {
     font-size: 1rem;
-    color: #717d7e;
+    color: #641e16;
     font-weight: 700;
 }
 .container {
-    background: #fff;
+    background: #717d7e;
     width: 90%;
     max-width: 38rem;
     margin: 6.25rem auto 0;
@@ -50,4 +50,21 @@ h2 {
     background: #222;
     color: #fff;
     transition: all 0.5sec;
+}
+#next-question {
+    display: none;
+    background: #641e16 ;
+    color: #fff;
+    font-weight: 600;
+    width: 9.4rem;
+    padding: 0.7rem;
+    margin: 1.25rem auto 0;
+    border-radius: 0.35rem;
+    cursor: pointer;
+}
+.correct {
+    background: #94edb9;
+}
+.incorrect {
+    background: #ff9084;
 }
