@@ -141,3 +141,30 @@ hr {
     font-size: 0.9em;
   }
 }
+@media (max-width: 1024px) {
+  .container {
+    margin-top: 60%;
+  }
+  h1 {
+      font-size: 1.8em;
+  }
+
+  p {
+      font-size: 1em;
+  }
+
+  #question {
+      font-size: 1.3em;
+  }
+
+  .btn {
+      padding: 12px;
+      font-size: 1em;
+  }
+
+  #next-question {
+      padding: 12px;
+      font-size: 1em;
+  }
+}
+
