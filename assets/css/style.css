@@ -33,6 +33,10 @@ h1 {
   margin-bottom: 10px;
   color: #333;
 }
+h2 {
+  font-size: 25px;
+  font-weight: normal;
+}
 
 p {
   margin-top: 20px;
@@ -112,7 +116,7 @@ hr {
 }
 
 .footer p {
-  color: white;
+  color: #fff;
   margin: 0;
   font-size: 0.9em;
 }
