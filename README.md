@@ -61,24 +61,24 @@ I used Balsamiq to craft wireframes
 ## Validation: 
 
 * HTML Validation
-![desktop](./assets/wireframes/htmlvalidation.png);
+![desktop](./assets/wireframes/htmlvalidation.png)
 
 * CSS Validation
 
-![desktop](./assets/wireframes/cssValidation.png);
+![desktop](./assets/wireframes/cssValidation.png)
 
 # Performance testing:
 
 I used Google Lighthouse to analyses the page on performance, accessibility, best practices,  and SEO.
 
-![desktop](./assets/wireframes/performance.png);
-![desktop](./assets/wireframes/accessibility.png);
-![desktop](./assets/wireframes/bestpractices.png);
-![desktop](./assets/wireframes/seo.png);
+![desktop](./assets/wireframes/performance.png)
+![desktop](./assets/wireframes/accessibility.png)
+![desktop](./assets/wireframes/bestpractices.png)
+![desktop](./assets/wireframes/seo.png)
 
 # FResponsive
 
-![desktop](./assets/wireframes/responsive.png);
+![desktop](./assets/wireframes/responsive.png)
 
 # Deployment
 I used github pages to deploy the website.
