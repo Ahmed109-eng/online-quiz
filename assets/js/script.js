@@ -77,4 +77,5 @@ const displayScore = () => {
   nextQuestion.innerHTML = "Try again";
   nextQuestion.style.display = "block";
 };
+
 loadQuiz();

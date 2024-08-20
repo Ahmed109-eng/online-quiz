@@ -40,7 +40,7 @@ Buttons, text, and other UI elements are easy to interact with on all devices.
 * Clicking "Try again" resets the quiz to the first question. 
 The user’s previous answers are cleared 
 
-# Wireframes
+# Wireframes: 
 
 I used Balsamiq to craft wireframes
 
@@ -55,3 +55,40 @@ I used Balsamiq to craft wireframes
 * Mobile view
 
 ![desktop](./assets/wireframes/mobile.png);
+
+# Testing :
+
+## Validation: 
+
+* HTML Validation
+![desktop](./assets/wireframes/htmlvalidation.png);
+
+* CSS Validation
+
+![desktop](./assets/wireframes/cssValidation.png);
+
+# Performance testing:
+
+I used Google Lighthouse to analyses the page on performance, accessibility, best practices,  and SEO.
+
+![desktop](./assets/wireframes/performance.png);
+![desktop](./assets/wireframes/accessibility.png);
+![desktop](./assets/wireframes/bestpractices.png);
+![desktop](./assets/wireframes/seo.png);
+
+# FResponsive
+
+![desktop](./assets/wireframes/responsive.png);
+
+# Deployment
+I used github pages to deploy the website.
+live site https://ahmed109-eng.github.io/quiz-app/ 
+
+# Credits 
+https://www.w3schools.com/#gsc.tab=0&gsc.q=add%20sound%20 
+https://www.youtube.com/watch?v=lV2BMXdsDmc
+https://www.youtube.com/watch?v=PBcqGxrr9g8
+https://www.youtube.com/watch?v=riDzcEQbX6k
+https://www.youtube.com/watch?v=MIYQR-Ybrn4
+https://stackoverflow.com/
+
