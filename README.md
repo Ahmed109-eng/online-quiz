@@ -46,15 +46,15 @@ I used Balsamiq to craft wireframes
 
 * Desktop view
 
-![desktop](./assets/wireframes/desktop.png);
+![desktop](./assets/wireframes/desktop.png)
 
 * Tablet view (Ipad pro)
 
-![desktop](./assets/wireframes/ipad.png);
+![desktop](./assets/wireframes/ipad.png)
 
 * Mobile view
 
-![desktop](./assets/wireframes/mobile.png);
+![desktop](./assets/wireframes/mobile.png)
 
 # Testing :
 
