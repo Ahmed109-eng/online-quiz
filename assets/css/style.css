@@ -15,10 +15,15 @@ body {
   width: 100%;
   min-height: 100vh;
   padding: 20px;
+  background-image: url("../wireframes/quiz.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 500px;
 }
 
 .container {
-  margin-top: 50px;
+  margin-top: 150px;
   background-color: #fff;
   padding: 20px;
   border-radius: 8px;
@@ -107,7 +112,7 @@ hr {
 
 /* Footer Styling */
 .footer {
-  background-color: #333;
+  background-color: #85c1e9;
   padding: 10px;
   width: 100%;
   text-align: center;
@@ -116,17 +121,17 @@ hr {
 }
 
 .footer p {
-  color: #fff;
+  color: #222;
   margin: 0;
-  font-size: 0.9em;
+  font-size: 1.25rem;
 }
 
 /* Responsive Styles */
-@media (max-width: 480px) {
+@media screen and (max-width: 480px) {
   h1 {
     font-size: 1.5em;
   }
-
+ 
   p {
     font-size: 1em;
   }
@@ -134,7 +139,9 @@ hr {
   #question {
     font-size: 1.2em;
   }
-
+  body {
+    background-image: none !important;
+  }
   .btn {
     padding: 10px;
     font-size: 0.9em;
@@ -145,30 +152,29 @@ hr {
     font-size: 0.9em;
   }
 }
-@media (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
   .container {
     margin-top: 60%;
   }
   h1 {
-      font-size: 1.8em;
+    font-size: 1.8em;
   }
 
   p {
-      font-size: 1em;
+    font-size: 1em;
   }
 
   #question {
-      font-size: 1.3em;
+    font-size: 1.3em;
   }
 
   .btn {
-      padding: 12px;
-      font-size: 1em;
+    padding: 12px;
+    font-size: 1em;
   }
 
   #next-question {
-      padding: 12px;
-      font-size: 1em;
+    padding: 12px;
+    font-size: 1em;
   }
 }
-
