@@ -18,6 +18,9 @@ So that I can use the quiz app regardless of the device I’m using.
 ### User Story 4:
 * As a user, I want to see which questions I have answered,
 So that I can know how far I’ve progressed in the quiz.
+### User Story 4:
+* As a user, I want to restart the quiz after completion,
+So that I can try again to improve my score.
 
 # Accepted Criteria
 ###  Accepted Criteria 1:
@@ -33,5 +36,22 @@ The previous question and selected answer are not shown again unless I restart t
 Buttons, text, and other UI elements are easy to interact with on all devices.
 ###  Accepted Criteria 4:
 * The app can display the total number of questions and how many have been answered Correctly.
+###  Accepted Criteria 4:
+* Clicking "Try again" resets the quiz to the first question. 
+The user’s previous answers are cleared 
 
-![desktop](./assets/wireframes/desktop.png)
+# Wireframes
+
+I used Balsamiq to craft wireframes
+
+* Desktop view
+
+![desktop](./assets/wireframes/desktop.png);
+
+* Tablet view (Ipad pro)
+
+![desktop](./assets/wireframes/ipad.png);
+
+* Mobile view
+
+![desktop](./assets/wireframes/mobile.png);
