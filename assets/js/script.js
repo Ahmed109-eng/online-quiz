@@ -13,6 +13,7 @@ const loadQuiz = () => {
   displayQuestions();
 };
 
+
 const displayQuestions = () => {
   resetQuestions();
   let currentQestion = questions[currentQuestionNumber];
@@ -28,6 +29,7 @@ const displayQuestions = () => {
     button.addEventListener("click", clickHandler);
   });
 };
+
 
 const clickHandler = (event) => {
   const selectedAnswer = event.target;
